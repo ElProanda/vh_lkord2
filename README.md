@@ -4,3 +4,6 @@
 
 # Wireframe
 ![wireframe-vefhonnun2 drawio](https://github.com/user-attachments/assets/e7c2fe2f-396e-4a40-9348-9635a4de7c4d)
+
+# Stílbragð
+![image](https://github.com/user-attachments/assets/e6089264-9d39-40d7-832c-1e4dc0e844a4)
