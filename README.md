@@ -7,3 +7,7 @@
 
 # Litaþemu
 ![image](https://github.com/user-attachments/assets/e6089264-9d39-40d7-832c-1e4dc0e844a4)
+
+# Fonts
+montserrat 
+![image](https://github.com/user-attachments/assets/479e937c-b9c9-413c-be48-8fe7c615b9a8)
