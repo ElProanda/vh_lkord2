@@ -20,6 +20,9 @@ montserrat
 ![image](https://github.com/user-attachments/assets/479e937c-b9c9-413c-be48-8fe7c615b9a8)
 
 # Svg
+[!Note]
+Þau eru lituð svört
+
 ![images](https://github.com/user-attachments/assets/1bc5e346-239a-4fe1-acb8-3df8d5b6d0fd)
 ![newspaper](https://github.com/user-attachments/assets/373e8e2b-9d86-4374-9a7f-9127661ebd01)
 ![location2](https://github.com/user-attachments/assets/8d3274bc-131e-428a-a954-a4c549c64116)
