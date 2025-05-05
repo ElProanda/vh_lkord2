@@ -7,6 +7,25 @@
 * Samskiptaform.
 * Um okkur síða.
 
+## Texti 
+Uppgötvaðu fegurð og sjaldgæfni náttúrulegra gimsteina sem eru fengnir frá öllum heimshornum. Hvort sem þú ert safnari, skartgripasmiður eða áhugamaður um gimsteina, þá bjóðum við upp á hágæða steina með fullkomnu gegnsæi og áreiðanleika. <br>
+
+### Vörulisti
+Skoðaðu úrval okkar af einstökum gimsteinum, þar á meðal:
+* Ametist – Unninn í Brasilíu og Sambíu
+* Safír – Siðferðilega upprunninn frá Srí Lanka og Madagaskar
+* Smaragð – Frá ríkum námum Kólumbíu
+* Rúbín – Upprunninn frá Mjanmar og Mósambík
+* Kvars, tópas, sítrín og fleira
+
+Hver gimsteinalisti inniheldur ítarlegar lýsingar, upplýsingar um uppruna, stærð, þyngd og myndir í hárri upplausn.
+
+### Um okkur
+Um Lorenz's Gemstones <br>
+Lorenz's Gemstones var stofnað með ástríðu fyrir náttúrufjársjóðum jarðarinnar og leggur áherslu á að bjóða viðskiptavinum um allan heim hágæða gimsteina úr siðferðilega framleiddum efnum. Með áratuga reynslu og skuldbindingu við framúrskarandi gæði tryggjum við að hver steinn segi sögu - allt frá námunni til safnsins þíns. <br>
+
+Við trúum á sjálfbærni, sanngjarna viðskiptahætti og fullt gagnsæi.
+
 # Sitemap
 ![sitemap-vefhonnun2 drawio](https://github.com/user-attachments/assets/31a64dcf-c3ff-4573-981f-6fedb6935e66)
 
