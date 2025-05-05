@@ -2,6 +2,7 @@
 **Vefsíðan fjallar um gimsteina** <br>
 Það sem er innifalið á vefsíðunni:
 * vörulisti í boði, hvar gimsteinarnir eru staðsettir.
+* Upplýsingar um gimsteinar
 * Pöntunarform og skráningarform, þar sem þú skráir þig inn og kaupir gimsteinana.
 * Samskiptaform.
 * Um okkur síða.
@@ -51,3 +52,14 @@ montserrat
 ![sun](https://github.com/user-attachments/assets/6b8d63aa-3b26-4fd6-9652-4cc044ab59a4)
 ![stats-dots](https://github.com/user-attachments/assets/d1cc5c60-26a1-4e53-bccf-0cb4bfde5d77)
 ![spinner3](https://github.com/user-attachments/assets/8f537054-4372-482f-a37c-35c7649c03fd)
+
+
+# Myndir
+**Gimstein**
+![image](https://github.com/user-attachments/assets/99a13492-88c7-432f-ab2e-43b9c7c0cd30)
+https://www.freepik.com/free-photos-vectors/gemstone 
+https://unsplash.com/s/photos/gemstone 
+https://www.pexels.com/search/gemstone/
+https://pixabay.com/images/search/gemstone/
+https://www.pinterest.com/search/pins/?q=gemstones&rs=typed
+
