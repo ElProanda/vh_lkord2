@@ -55,8 +55,8 @@ montserrat
 
 
 # Myndir
-**Gimstein**
-![image](https://github.com/user-attachments/assets/99a13492-88c7-432f-ab2e-43b9c7c0cd30)
+**Gimstein** <br>
+![image](https://github.com/user-attachments/assets/99a13492-88c7-432f-ab2e-43b9c7c0cd30) <br>
 https://www.freepik.com/free-photos-vectors/gemstone 
 https://unsplash.com/s/photos/gemstone 
 https://www.pexels.com/search/gemstone/
